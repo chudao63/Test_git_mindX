@@ -6,5 +6,5 @@ def thuat_toan(list):
 
 print("bye")
 print("asdasd")
-print("hello")
+
 
